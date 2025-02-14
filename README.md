@@ -4,7 +4,7 @@
 I'm a passionate **Artificial Intelligence** enthusiast. I have a **Bachelor's degree in Computer Science** and a deep interest in **electromechanics, cybersecurity, databases, and software development**.
 
 ## 🎯 Skills & Technologies
-- **Programming:** Python, C, SQL
+- **Programming:** Python (Machine Learning, Cybersecurity, Web), C / C++ (Embedded Systems, Industrial Automation), Java (Application Development), JavaScript (Web Development), SQL (Database Management), Bash (Scripting & Automation)
 - **AI & Data Science:** Machine Learning, Deep Learning
 - **Databases:** MySQL, SQLite
 - **Cybersecurity:** Network security, Encryption, Ethical Hacking
